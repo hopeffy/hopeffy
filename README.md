@@ -4,7 +4,7 @@
 
 <p><img align="left" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=hopeffy&" alt="hopeffy" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hopeffy&show_icons=true&locale=en" alt="hopeffy" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hopeffy&show_icons=true&locale=en&layout=compact" alt="hopeffy" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hopeffy&show_icons=true&locale=en&layout=compact" alt="hopeffy" /></p>
 
 
 <h3 align="left">Languages and Tools:</h3>
